@@ -1,0 +1,9 @@
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\bin\Debug\Datos.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\bin\Debug\Datos.pdb
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\bin\Debug\Entidades.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\bin\Debug\Entidades.pdb
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\obj\Debug\Datos.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Datos\obj\Debug\Datos.pdb

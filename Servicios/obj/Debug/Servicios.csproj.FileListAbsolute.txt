@@ -1,0 +1,11 @@
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\bin\Debug\Servicios.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\bin\Debug\Servicios.pdb
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\bin\Debug\Entidades.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\bin\Debug\Utilidades.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\bin\Debug\Entidades.pdb
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\bin\Debug\Utilidades.pdb
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\obj\Debug\Servicios.csproj.AssemblyReference.cache
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\obj\Debug\Servicios.csproj.CoreCompileInputs.cache
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\obj\Debug\Servicios.csproj.CopyComplete
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\obj\Debug\Servicios.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Servicios\obj\Debug\Servicios.pdb

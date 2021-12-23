@@ -1,0 +1,6 @@
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Entidades\bin\Debug\Entidades.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Entidades\bin\Debug\Entidades.pdb
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Entidades\obj\Debug\Entidades.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Entidades\obj\Debug\Entidades.pdb

@@ -1,0 +1,5 @@
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Utilidades\bin\Debug\Utilidades.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Utilidades\bin\Debug\Utilidades.pdb
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Utilidades\obj\Debug\Utilidades.csproj.CoreCompileInputs.cache
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Utilidades\obj\Debug\Utilidades.dll
+D:\Paolo\Proyectos\Autrisa-WindowsForms\Utilidades\obj\Debug\Utilidades.pdb
